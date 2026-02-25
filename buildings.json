@@ -157,5 +157,16 @@
     "color": 16711935,
     "name": "مبنى سكني",
     "protrusionDirection": "south"
+  },
+  {
+    "id": null,
+    "x": 85.19971021218973,
+    "z": 55.747113201665336,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "مبنى سكني",
+    "protrusionDirection": "none"
   }
 ]
