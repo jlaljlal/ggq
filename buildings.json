@@ -35,5 +35,25 @@
     "name": "مبنى سكني",
     "protrusionDirection": "north",
     "id": 2
+  },
+  {
+    "id": 2,
+    "x": -111.14944523216407,
+    "z": -600.3355610260542,
+    "width": 120,
+    "depth": 30,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "north",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
   }
 ]
