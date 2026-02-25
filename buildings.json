@@ -10,5 +10,19 @@
       "north": true,
       "east": true
     }
+  },
+  {
+    "name": "مبنى جديد",
+    "position": {
+      "x": 2.3281379324218476,
+      "y": 0,
+      "z": -2.459471692372114
+    },
+    "protrusions": {
+      "north": false,
+      "south": false,
+      "east": false,
+      "west": false
+    }
   }
 ]
