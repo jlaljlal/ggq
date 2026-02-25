@@ -1,0 +1,139 @@
+[
+  {
+    "name": "مبنى تجريبي",
+    "position": {
+      "x": 2,
+      "y": 0,
+      "z": 2
+    },
+    "protrusions": {
+      "north": true,
+      "east": true
+    }
+  },
+  {
+    "name": "مبنى جديد",
+    "position": {
+      "x": 2.3281379324218476,
+      "y": 0,
+      "z": -2.459471692372114
+    },
+    "protrusions": {
+      "north": false,
+      "south": false,
+      "east": false,
+      "west": false
+    }
+  },
+  {
+    "x": 0.0002706762539190777,
+    "z": -0.000982136766452868,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "مبنى سكني",
+    "protrusionDirection": "north",
+    "id": 2
+  },
+  {
+    "id": 2,
+    "x": -111.14944523216407,
+    "z": -600.3355610260542,
+    "width": 120,
+    "depth": 30,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "north",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
+  },
+  {
+    "id": 2,
+    "x": -6.512587856778763,
+    "z": -107.00255515149811,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "none",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
+  },
+  {
+    "id": 2,
+    "x": -6.9636363379316,
+    "z": 104.60417220815964,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "none",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
+  },
+  {
+    "id": 3,
+    "x": 6473.928949047872,
+    "z": 2474.552963090157,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "none",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
+  },
+  {
+    "id": 2,
+    "x": -4.392106074515051,
+    "z": -52.61165817704939,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "شقة للبيع",
+    "protrusionDirection": "none",
+    "price": 58000,
+    "rooms": 4,
+    "offer": "a0015",
+    "location": "وادي النسيوم، قبلي غربي",
+    "status": "جاهز عالسكن",
+    "phone": "963949340870",
+    "image": "",
+    "video": "",
+    "description": "طابق ثالث فني، 4 غرف كبار"
+  }
+]
