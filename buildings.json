@@ -135,5 +135,16 @@
     "image": "",
     "video": "",
     "description": "طابق ثالث فني، 4 غرف كبار"
+  },
+  {
+    "x": -4.117573469640632,
+    "z": 50.830801366575315,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "مبنى",
+    "protrusionDirection": "none",
+    "id": 2
   }
 ]
