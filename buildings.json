@@ -24,5 +24,16 @@
       "east": false,
       "west": false
     }
+  },
+  {
+    "x": 0.0002706762539190777,
+    "z": -0.000982136766452868,
+    "width": 12,
+    "depth": 12,
+    "floors": 4,
+    "color": 13421772,
+    "name": "مبنى سكني",
+    "protrusionDirection": "north",
+    "id": 2
   }
 ]
