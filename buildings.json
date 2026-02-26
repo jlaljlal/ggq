@@ -60,5 +60,21 @@
     "phone": "963949340870+",
     "location": "إدلب",
     "protrusionDirection": "none"
+  },
+  {
+    "id": null,
+    "x": 254.10939101125825,
+    "z": 82.79124447404416,
+    "width": 12,
+    "depth": 2000,
+    "floors": 4,
+    "color": 13421772,
+    "name": "مبنى سكني",
+    "price": 58000,
+    "description": "شقة للبيع 2026/2/22 طابق ثالث فني وادي النسيوم قبلي غربي، 4 غرف كبار جاهز عالسكن",
+    "offer": "a0015",
+    "phone": "963949340870+",
+    "location": "إدلب",
+    "protrusionDirection": "none"
   }
 ]
